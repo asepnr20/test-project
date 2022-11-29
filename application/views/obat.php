@@ -51,7 +51,7 @@
       <div class="container">
         <div class="section-title">
           <h2>Obat & Vitamin</h2>
-          <p>Layanan telemedisin yang siap siaga untuk bantu kamu hidup lebih sehat.</p>
+          <p>Memudahkan orang membeli obat saat sakit tanpa harus ke luar rumah.</p>
         </div>
 
         <div class="container mt-2">
