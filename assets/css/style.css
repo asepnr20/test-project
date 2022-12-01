@@ -648,10 +648,12 @@ section {
   font-weight: 700;
   font-size: 34px;
   margin-bottom: 30px;
+  color: #fff;
 }
 
 .why-us .content p {
   margin-bottom: 30px;
+  color: #fff;
 }
 
 .why-us .icon-boxes .pic {
@@ -1172,11 +1174,13 @@ svg:hover path {
 
 .start h1 {
   text-shadow: 5px 10px 5px fuchsia;
+  color: #fff;
 }
 
 .start h3 {
   font-weight: 400;
   text-shadow: 5px 10px 5px fuchsia;
+  color: #fff;
 }
 
 .start i {
@@ -1291,5 +1295,9 @@ div [class^="col-"]{
 .content3 {
   margin-top: 200px;
   padding-top: 20px;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
+
+
+
+/* Artikel */

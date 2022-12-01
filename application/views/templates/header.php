@@ -31,6 +31,20 @@
   <link href="<?= base_url() ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="<?= base_url() ?>assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+  <!-- Vendor CSS Files - Artikel -->
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/bootstrap.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/ticker-style.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/flaticon.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/slicknav.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/animate.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/magnific-popup.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/themify-icons.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/slick.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/nice-select.css">
+  <link rel="stylesheet" href="<?= base_url() ?>assets/artikel/css/style_.css">
+
   <!-- Template Main CSS File -->
   <link href="<?= base_url() ?>assets/css/style.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="<?= base_url() ?>assets/css/obat-style.css">

@@ -8,7 +8,6 @@
   <header class="start">
     <h1>This is Our TEAM</h1>
     <h3>Here you are, scroll down.</h3>
-    <br><br>
     <a href="#team"><i class='fas fa-angle-double-down'></i></a>
   </header>
 

@@ -37,7 +37,10 @@ class User extends CI_Controller {
 
   public function artikel()
   {
+    $data['title'] = 'Informasi & Artikel Kesehatan';
+    $this->load->view('templates/header', $data);
     $this->load->view('artikel/index');
+    $this->load->view('templates/footer');
 
   }
 

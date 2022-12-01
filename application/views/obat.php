@@ -28,12 +28,12 @@
           <li><a class="nav-link scrollto" href="<?= base_url('user') ?>#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="<?= base_url('user') ?>#services">Konsultasi</a></li>
           <li><a class="nav-link scrollto active" href="<?= base_url('user/obat') ?>">Obat & Vitamin</a></li>
-          <li><a class="nav-link scrollto" href="#">Artikel</a></li>
+          <li><a class="nav-link scrollto" href="<?= base_url('user/artikel') ?>">Artikel</a></li>
           <li class="dropdown"><a href=""><span>Tentang Kami</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a class="nav-link scrollto" href="<?= base_url('user/team') ?>">Team</a></li>
-              <li><a class="nav-link scrollto" href="#map">Site Map</a></li>
-              <li><a class="nav-link scrollto" href="#">Kebijakan & Privasi</a></li>
+              <li><a class="nav-link scrollto" href="<?= base_url('user') ?>#map">Site Map</a></li>
+              <li><a class="nav-link scrollto" href="<?= base_url('user/kebijakan') ?>">Kebijakan & Privasi</a></li>
             </ul>
           </li>
         </ul>

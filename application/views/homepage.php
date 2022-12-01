@@ -72,7 +72,7 @@
                 &mdash; Pelayanan kesehatan digital yang memberikan layanan kesehatan
                 tanpa batasan wilayah dan dapat dijangkau oleh semua masyarakat. <br>
                 &mdash; Bekerjasama dengan dokter yang berlisensi, serta turut membantu memberantas Covid-19.
-                <br><br>
+                <br>
               </p>
             </div>
           </div>
